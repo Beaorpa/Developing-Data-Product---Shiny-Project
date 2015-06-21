@@ -1,0 +1,20 @@
+---
+title: ""
+author: ""
+date: ""
+output:
+  html_document:
+    keep_md: true
+---
+
+#     FLOWERS & COLORS 
+      
+This is a shiny aplication to Develope Data Product Coursera Specializtion.
+
+This aplication allows to select two data set, flowers and Trees choose the numbers of rows and show a Summary operation. 
+
+In the Plot Tab we can see the two types of plots, Scatter and Lines for every data set.....
+
+
+
+
